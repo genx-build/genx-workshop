@@ -1,0 +1,502 @@
+{
+    "public_identifier": "s-muhammed-javad-feyzabadi-sani-8224ba162",
+    "profile_pic_url": "https://media.licdn.com/dms/image/C4E03AQEzLVkOaRAXNA/profile-displayphoto-shrink_800_800/0/1662294985488?e=2147483647&v=beta&t=v2G7tpcvm4LQN9nx0N5kmUZAEVCVYuZ9Wkc9s64e8pU",
+    "background_cover_image_url": "https://media.licdn.com/dms/image/C5616AQFRa58scfZqow/profile-displaybackgroundimage-shrink_200_800/0/1592926824098?e=2147483647&v=beta&t=wePDT2gyMkMOHEIyjOHcLPz9QoHV3ApxAmPcGTaTesA",
+    "first_name": "S.Muhammed Javad Feyzabadi",
+    "last_name": "Sani",
+    "full_name": "S.Muhammed Javad Feyzabadi Sani",
+    "follower_count": 481,
+    "occupation": "Data Science Team Lead at Tapsell",
+    "headline": "Ph.D. student@ SUT, Data scientist @ Tapsell",
+    "summary": "Experienced Research Assistant with a demonstrated history of working in the higher education industry. Skilled in Python, Statistics, and Machine Learning. Strong research professional with a Master of Science - MS focused in Artificial Intelligence from the Sharif University of Technology.",
+    "country": "IR",
+    "country_full_name": "Iran",
+    "city": "Tehran",
+    "state": "Tehran Province",
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2019
+            },
+            "ends_at": null,
+            "company": "Sharif University of Technology",
+            "company_linkedin_profile_url": "https://ir.linkedin.com/company/sharif-university-of-technology",
+            "title": "Teaching Assistant",
+            "description": "- Stochastic Process (Fall 2022) [Prof. Rabiee]\n- Statistical Machine Learning (Spring2021) [Prof. Rabiee]\n- Linear Algebra (Fall2020) [Prof. Rabiee]\n- Modern Information Retrieval (Spring2020) [Dr. Soleymani]\n- Modern Information Retrieval (Fall2019) [Dr. Beigy]\n- Artificial Intelligence (Fall2019) [Dr. Soleymani]",
+            "location": "Tehran, Iran",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQEYGbmjGIH89A/company-logo_100_100/0/1633504236956?e=2147483647&v=beta&t=Qnn8jW82wcv8Jvr0FyYfqSLAkG-j0wRhHOqX72B-39s"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2020
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2022
+            },
+            "company": "Sharif University of Technology",
+            "company_linkedin_profile_url": "https://ir.linkedin.com/company/sharif-university-of-technology",
+            "title": "Head Teaching Assistant",
+            "description": "Machine Learning\nInstructor: Dr. Abbas Hoseini\nFall2020, Spring2021, Fall2021\nStatistical Machine Learning\nInstructor: Prof. Hamid R. Rabiee\nSpring 2023",
+            "location": "Tehran, Iran",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQEYGbmjGIH89A/company-logo_100_100/0/1633504236956?e=2147483647&v=beta&t=Qnn8jW82wcv8Jvr0FyYfqSLAkG-j0wRhHOqX72B-39s"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2022
+            },
+            "ends_at": null,
+            "company": "Tapsell",
+            "company_linkedin_profile_url": "https://ir.linkedin.com/company/tapsell",
+            "title": "Data Science Team Lead",
+            "description": null,
+            "location": "Tehran, Tehran Province, Iran",
+            "logo_url": "https://media.licdn.com/dms/image/D4E0BAQHaHYbNRkQCmA/company-logo_100_100/0/1690878512662?e=2147483647&v=beta&t=azd_CsT4tY2sBKsQlC_8PRYc1IQarPvnZXiV8-jZelU"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2021
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 9,
+                "year": 2022
+            },
+            "company": "Tapsell",
+            "company_linkedin_profile_url": "https://ir.linkedin.com/company/tapsell",
+            "title": "Data Scientist",
+            "description": null,
+            "location": "Tehran, Iran",
+            "logo_url": "https://media.licdn.com/dms/image/D4E0BAQHaHYbNRkQCmA/company-logo_100_100/0/1690878512662?e=2147483647&v=beta&t=azd_CsT4tY2sBKsQlC_8PRYc1IQarPvnZXiV8-jZelU"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2019
+            },
+            "company": "Cafe Bazaar",
+            "company_linkedin_profile_url": "https://ir.linkedin.com/company/cafebazaar",
+            "title": "Research Collaborator",
+            "description": "Finding informative tags from user reviews on the Cafe Bazaar store application. \n\nUsers usually leave comments about applications they are using and express their feelings and experience working while using that app. In this project, we extract key points that users mentioned in comments for each application which is useful for both users and developers. This was a joint project with the Sharif University of Technology under the supervision of Dr. Soleymani.",
+            "location": "Tehran, Iran",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQHEiaIuDtO_XQ/company-logo_100_100/0/1605472712202?e=2147483647&v=beta&t=oT5jjmlQB-bu04TVYKkFxbVndF-xsvr0ywu7c7wxULo"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 9,
+                "year": 2018
+            },
+            "company": "DPI Co.",
+            "company_linkedin_profile_url": "https://ir.linkedin.com/company/dpi-co-",
+            "title": "Intern",
+            "description": "I was an intern at Data Processing Iran(DPI) company. I was working on designing I.O.T. platforms as a back-end developer.",
+            "location": "Iran",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQFM5rGwkbFOWQ/company-logo_100_100/0/1519909660535?e=2147483647&v=beta&t=aEaVn0HjvLOb9XXNjUM2O85vi8Ccoyx4ZdviXKYI2z8"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2018
+            },
+            "company": "Maktab_Sharif",
+            "company_linkedin_profile_url": "https://ir.linkedin.com/company/maktabsharif",
+            "title": "Java Instructor",
+            "description": "Maktab Sharif is an institute that teaches interns preliminary programming skills and helps them start their careers in the IT industry.\nI helped them as one of their instructors.",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQGyxB_qN_6O8g/company-logo_100_100/0/1651470816613?e=2147483647&v=beta&t=voNc92S1kVDd-kGTdskFobZaUVQUjCapMuaXZkLzxnI"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 10,
+                "year": 2016
+            },
+            "company": "Bel IoT Lab.",
+            "company_linkedin_profile_url": "https://ir.linkedin.com/company/bel-iot-lab.",
+            "title": "Android Developer Intern",
+            "description": "The project was defined on an open-source version of the Android kernel to detach its dependencies from Google services. I participated in building the open-source app store for this project.",
+            "location": "Tehran, Iran",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQEH7RgxScofhg/company-logo_100_100/0/1519898915145?e=2147483647&v=beta&t=EF57A1ICamWSVVS77CYLbLlpdyIQ9-2BkM4ZzCPZX60"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 9,
+                "year": 2015
+            },
+            "company": "Allameh Helli school",
+            "company_linkedin_profile_url": "https://ir.linkedin.com/company/hellischool",
+            "title": "Physics Teacher",
+            "description": "Teaching physics to students who are preparing for the physics olympiad competition.",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQEE8kPj_sInlQ/company-logo_100_100/0/1519921428729?e=2147483647&v=beta&t=DyAdOHjDKTX3fjfjrLhoYmmweIYyiizTSnkggeqLh5o"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2021
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2025
+            },
+            "field_of_study": "Artificial Intelligence",
+            "degree_name": "Doctor of Philosophy",
+            "school": "Sharif University of Technology",
+            "school_linkedin_profile_url": "https://ir.linkedin.com/school/sharif-university-of-technology/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQEYGbmjGIH89A/company-logo_100_100/0/1633504236956?e=2147483647&v=beta&t=Qnn8jW82wcv8Jvr0FyYfqSLAkG-j0wRhHOqX72B-39s",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2021
+            },
+            "field_of_study": "Artificial Intelligence",
+            "degree_name": "Master of Science",
+            "school": "Sharif University of Technology",
+            "school_linkedin_profile_url": "https://ir.linkedin.com/school/sharif-university-of-technology/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQEYGbmjGIH89A/company-logo_100_100/0/1633504236956?e=2147483647&v=beta&t=Qnn8jW82wcv8Jvr0FyYfqSLAkG-j0wRhHOqX72B-39s",
+            "grade": "19.85/20",
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2019
+            },
+            "field_of_study": "Computer Software Engineering",
+            "degree_name": "Bachelor of Science",
+            "school": "Sharif University of Technology",
+            "school_linkedin_profile_url": "https://ir.linkedin.com/school/sharif-university-of-technology/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQEYGbmjGIH89A/company-logo_100_100/0/1633504236956?e=2147483647&v=beta&t=Qnn8jW82wcv8Jvr0FyYfqSLAkG-j0wRhHOqX72B-39s",
+            "grade": "19.40/20",
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2008
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2015
+            },
+            "field_of_study": "Mathmatics and Physics",
+            "degree_name": "Diploma",
+            "school": "Allameh Helli school",
+            "school_linkedin_profile_url": "https://ir.linkedin.com/school/hellischool/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQEE8kPj_sInlQ/company-logo_100_100/0/1519921428729?e=2147483647&v=beta&t=DyAdOHjDKTX3fjfjrLhoYmmweIYyiizTSnkggeqLh5o",
+            "grade": "19.89/20",
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [
+        {
+            "title": "First Rank Direct Admission to the Master Program(Artificial Intelligence)",
+            "issuer": "Sharif University of Technology",
+            "issued_on": {
+                "day": 1,
+                "month": 7,
+                "year": 2019
+            },
+            "description": null
+        },
+        {
+            "title": "National Bronze Medal in physics Olympiad",
+            "issuer": "National Organization for Development of Exceptional Talents (Young Scholars Club)",
+            "issued_on": {
+                "day": 1,
+                "month": 9,
+                "year": 2014
+            },
+            "description": null
+        }
+    ],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 5,
+                "year": 2020
+            },
+            "title": "Head of Scientific Chapter",
+            "cause": "Science and Technology",
+            "company": "Sharif Data Days",
+            "company_linkedin_profile_url": "https://ir.linkedin.com/company/sharif-data-days",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQHxtiuaESMk-A/company-logo_100_100/0/1577719015024?e=2147483647&v=beta&t=yPor9DZM8rQXD-d2z3OFFLdzmtfkoZit8QSn7gVGckI"
+        }
+    ],
+    "certifications": [],
+    "connections": 486,
+    "people_also_viewed": [
+        {
+            "link": "https://ir.linkedin.com/in/mhebrahimi",
+            "name": "Mohammad Hassan Ebrahimi",
+            "summary": "BUSINESS LINE MANAGER",
+            "location": "Iran"
+        },
+        {
+            "link": "https://ir.linkedin.com/in/ali-khodadadi-b91b505b",
+            "name": "Ali Khodadadi",
+            "summary": "AI Team Lead at Tapsell",
+            "location": "Iran"
+        },
+        {
+            "link": "https://ir.linkedin.com/in/mhdjsafdari",
+            "name": "Mohammad Javad Safdari",
+            "summary": "Product Owner at Tapsell",
+            "location": "Tehran Province, Iran"
+        },
+        {
+            "link": "https://ir.linkedin.com/in/mohammad-reza-pourmoradi",
+            "name": "Mohammad Reza Pourmoradi",
+            "summary": "Frontend Chapter Lead at Tapsell",
+            "location": "Iran"
+        },
+        {
+            "link": "https://ir.linkedin.com/in/negin-razavi-64555953",
+            "name": "Negin Razavi",
+            "summary": "Software Engineer at Tapsell",
+            "location": "Iran"
+        },
+        {
+            "link": "https://ir.linkedin.com/in/ramin-asadi-39393555",
+            "name": "Ramin Asadi",
+            "summary": "Back End Developer at Tapsell",
+            "location": "Iran"
+        },
+        {
+            "link": "https://ir.linkedin.com/in/heliya-rahbar",
+            "name": "Heliya Rahbar",
+            "summary": "Frontend Developer(Angular)",
+            "location": "Iran"
+        },
+        {
+            "link": "https://ir.linkedin.com/in/mmsamiei",
+            "name": "Mahdi Samiei",
+            "summary": "PhD Student in Artificial Intelligence at Sharif University of Technology",
+            "location": "Tehran Province, Iran"
+        },
+        {
+            "link": "https://ir.linkedin.com/in/fatemehbargiran",
+            "name": "Fatemeh Bargiran",
+            "summary": "Campaign Manger at Tapsell",
+            "location": "Tehran"
+        },
+        {
+            "link": "https://ir.linkedin.com/in/seyed-mohammad-aleahmad-7b609b7b",
+            "name": "Seyed Mohammad Aleahmad",
+            "summary": "--",
+            "location": "Iran"
+        },
+        {
+            "link": "https://ir.linkedin.com/in/zareimatin",
+            "name": "Mohammad Ali Zarei Matin",
+            "summary": "Senior Mobile SDK Developer at Tapsell",
+            "location": "Tehran Province, Iran"
+        },
+        {
+            "link": "https://ir.linkedin.com/in/bardia-dorry-501a2b1ab",
+            "name": "bardia dorry",
+            "summary": "software architect and backend developer in rayan pardaz kavosh",
+            "location": "Tehran"
+        },
+        {
+            "link": "https://ir.linkedin.com/in/mhadadian",
+            "name": "Mohammad Hadadian",
+            "summary": "Doctoral Student at Software and System Security Lab, Sharif University of Technology",
+            "location": "Iran"
+        },
+        {
+            "link": "https://ir.linkedin.com/in/arianhf",
+            "name": "Arian Hedayati Far",
+            "summary": "Student at University of Tehran",
+            "location": "Tehran"
+        },
+        {
+            "link": "https://ir.linkedin.com/in/mohammad-vatani",
+            "name": "mohammad vatani",
+            "summary": "Data Scientist at Part AI Research Center",
+            "location": "Tehran"
+        },
+        {
+            "link": "https://ir.linkedin.com/in/mobina-goodarzi",
+            "name": "Mobina Goodarzi",
+            "summary": "--",
+            "location": "Tehran"
+        },
+        {
+            "link": "https://ir.linkedin.com/in/kamal-mir-hosseini",
+            "name": "Kamal Mir Hosseini",
+            "summary": "WordPress developer",
+            "location": "Kerman Province, Iran"
+        },
+        {
+            "link": "https://ca.linkedin.com/in/niksefat",
+            "name": "M Qasem N.",
+            "summary": "Research Assistant / Data Analyst at Queen's University",
+            "location": "Kingston, ON"
+        },
+        {
+            "link": "https://ir.linkedin.com/in/yousef-mohammadian-3d-artist",
+            "name": "Yousef Mohammadian",
+            "summary": "Graphic Designer - 3D Artist",
+            "location": "Tehran Province, Iran"
+        },
+        {
+            "link": "https://uk.linkedin.com/in/mohtaheri",
+            "name": "SeyedMohammad Taheri",
+            "summary": "Senior Software Engineer",
+            "location": "United Kingdom"
+        }
+    ],
+    "recommendations": [],
+    "activities": [
+        {
+            "title": "Restoring old photos using Generative Fill \ud83e\udd2f",
+            "link": "https://www.linkedin.com/posts/howardpinsky_restoring-old-photos-using-generative-fill-activity-7092998870531518464-beOl",
+            "activity_status": "Liked by S.Muhammed Javad Feyzabadi Sani"
+        },
+        {
+            "title": "\u062b\u0628\u062a\u200c\u0646\u0627\u0645 GenX \u0627\u0632 \u062f\u06cc\u0631\u0648\u0632 \u0634\u0631\u0648\u0639 \u0634\u062f\u0647. \u0627\u06af\u0647:- \u0645\u062f\u062a\u06cc \u0647\u0633\u062a \u06a9\u0647 \u062f\u0627\u0631\u06cc\u062f \u0628\u0647 \u0634\u0631\u0648\u0639 \u0627\u0633\u062a\u0627\u0631\u062a\u0627\u067e \u062e\u0648\u062f\u062a\u0648\u0646 \u0641\u06a9\u0631 \u0645\u06cc\u200c\u06a9\u0646\u06cc\u062f\u060c - \u06cc\u0627 \u062e\u06cc\u0644\u06cc \u0646\u0645\u06cc\u200c\u062f\u0648\u0646\u06cc\u062f \u0627\u0633\u062a\u0627\u0631\u062a\u0627\u067e \u0686\u06cc\u0647 \u0627\u0645\u0627 \u06cc\u0647 \u0627\u06cc\u062f\u0647\u200c\u0627\u06cc \u062f\u0627\u0631\u06cc\u062f\u2026",
+            "link": "https://www.linkedin.com/posts/mohammad-javad-aboutalebi_%D8%AB%D8%A8%D8%AA%D9%86%D8%A7%D9%85-genx-%D8%A7%D8%B2-%D8%AF%DB%8C%D8%B1%D9%88%D8%B2-%D8%B4%D8%B1%D9%88%D8%B9-%D8%B4%D8%AF%D9%87-%D8%A7%DA%AF%D9%87-%D9%85%D8%AF%D8%AA%DB%8C-activity-7092802994773053442-gmSt",
+            "activity_status": "Liked by S.Muhammed Javad Feyzabadi Sani"
+        },
+        {
+            "title": "\u062a\u0627\u06a9\u200c\u0634\u0648\u06cc \u0633\u0648\u0645 GenX \u0628\u0627 \u062d\u0636\u0648\u0631 \u0645\u0647\u0631\u062f\u0627\u062f \u0641\u0631\u062c\u200c\u062a\u0628\u0627\u0631 \u0645\u0647\u0631\u062f\u0627\u062f \u0645\u062f\u06cc\u0631 \u06cc\u06a9 \u062a\u06cc\u0645 \u0641\u0646\u06cc \u0648 \u062f\u0627\u0646\u0634\u0645\u0646\u062f \u062a\u062d\u0642\u06cc\u0642\u0627\u062a\u06cc \u062f\u0631 Apple \u0647\u0633\u062a\u060c \u0648 \u0642\u0628\u0644 \u0627\u0632 \u0627\u067e\u0644 \u0639\u0636\u0648 Deepmind \u06af\u0648\u06af\u0644 \u0628\u0648\u062f\u0647. \u0645\u0647\u0631\u062f\u0627\u062f \u062f\u0648\u0631\u0647\u200c\u06cc\u2026",
+            "link": "https://www.linkedin.com/posts/genx-build_%D8%AA%D8%A7%DA%A9%D8%B4%D9%88%DB%8C-%D8%B3%D9%88%D9%85-genx-%D8%A8%D8%A7-%D8%AD%D8%B6%D9%88%D8%B1-%D9%85%D9%87%D8%B1%D8%AF%D8%A7%D8%AF-%D9%81%D8%B1%D8%AC%D8%AA%D8%A8%D8%A7%D8%B1-activity-7096177179910189056-a_CQ",
+            "activity_status": "Liked by S.Muhammed Javad Feyzabadi Sani"
+        },
+        {
+            "title": "Excited to have presented my Master's thesis research at #UAI2023 - Uncertainty in Artificial Intelligence, one of the leading conferences in AI\u2026",
+            "link": "https://www.linkedin.com/posts/ali--gorji_uai2023-activity-7092469833102974976-Mw4-",
+            "activity_status": "Liked by S.Muhammed Javad Feyzabadi Sani"
+        },
+        {
+            "title": "Since Meta AI dropped LLAMA-2, there has been hype around it. I reserved my judgment unless I could go through the whole 77-page paper.  After going\u2026",
+            "link": "https://www.linkedin.com/posts/kunalsavvy_understanding-llama-2-architecture-its-activity-7091816578693898240-U7Yx",
+            "activity_status": "Liked by S.Muhammed Javad Feyzabadi Sani"
+        },
+        {
+            "title": "\u0633\u0644\u0627\u0645\u060c \u0645\u0627 \u0627\u0648\u0645\u062f\u06cc\u0645! :) \u0648\u0642\u062a\u0634\u0647 \u0627\u06cc\u062f\u0647\u200c\u0647\u0627\u06cc \u0628\u0627\u062d\u0627\u0644\u06cc \u06a9\u0647 \u062a\u0648 \u0633\u0631\u062a \u0628\u0648\u062f\u0647 \u0648\u0644\u06cc \u0647\u06cc\u0686 \u0648\u0642\u062a \u0633\u0645\u062a\u0634\u0648\u0646 \u0646\u0631\u0641\u062a\u06cc \u0631\u0648 \u062a\u0648\u06cc \u06f1\u06f0 \u0631\u0648\u0632 \u0628\u0627 \u06a9\u0645\u06a9 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0645\u0648\u0644\u062f \u0627\u062c\u0631\u0627\u06cc\u06cc \u06a9\u0646\u06cc. \u0642\u0631\u0627\u0631\u0647 \u062a\u0648\u06cc GenX:\u2026",
+            "link": "https://www.linkedin.com/posts/genx-build_%D8%B3%D9%84%D8%A7%D9%85-%D9%85%D8%A7-%D8%A7%D9%88%D9%85%D8%AF%DB%8C%D9%85-%D9%88%D9%82%D8%AA%D8%B4%D9%87-%D8%A7%DB%8C%D8%AF%D9%87%D9%87%D8%A7%DB%8C-%D8%A8%D8%A7%D8%AD%D8%A7%D9%84%DB%8C-activity-7091397273846169600-5zgm",
+            "activity_status": "Liked by S.Muhammed Javad Feyzabadi Sani"
+        },
+        {
+            "title": "Llama 2 (70B) just landed in HuggingChat\ud83d\udcacThis is the largest running version of the model from Meta, running on fast optimized inference on\u2026",
+            "link": "https://www.linkedin.com/posts/julienchaumond_llama-2-70b-just-landed-in-huggingchat-activity-7087460465496203264-_Szp",
+            "activity_status": "Liked by S.Muhammed Javad Feyzabadi Sani"
+        },
+        {
+            "title": "\u2692 While we're in the middle of the Generative AI & LLM hype, let's not forget good old Machine Learning \u2692 In '18 I was involved in a side project\u2026",
+            "link": "https://www.linkedin.com/posts/olivermolander_generatieveai-foundationmodels-largelanguagemodels-activity-7089506017507483649-zcAS",
+            "activity_status": "Liked by S.Muhammed Javad Feyzabadi Sani"
+        },
+        {
+            "title": "As the semester comes to an end, I am thrilled to share the incredible experience of teaching the \"Security and Privacy in Machine Learning\" course\u2026",
+            "link": "https://www.linkedin.com/posts/amir-mahdi-sadeghzadeh-355375124_spml-sutgithubio-activity-7087917335373598721-DBHH",
+            "activity_status": "Liked by S.Muhammed Javad Feyzabadi Sani"
+        },
+        {
+            "title": "Our paper on ACL 2023, Proceedings of The 17th International Workshop on Semantic Evaluation (SemEval-2023). Our research paper describes a\u2026",
+            "link": "https://www.linkedin.com/posts/sayed-hesam-alavian_nlp-acl-acl2023-activity-7085187638948724736-9K_i",
+            "activity_status": "Liked by S.Muhammed Javad Feyzabadi Sani"
+        },
+        {
+            "title": "Thrilled to share that our paper has been accepted in #ICCV23! We highlight that fine-tuning SSL methods on unlabeled videos enhances dense feature\u2026",
+            "link": "https://www.linkedin.com/posts/mohammadreza-salehi-39717b108_iccv23-activity-7085953018101157888-IAMt",
+            "activity_status": "Liked by S.Muhammed Javad Feyzabadi Sani"
+        },
+        {
+            "title": "I am thrilled to announce that I graduated from the Computer Science Master's program at ETH Z\u00fcrich! The knowledge and skills I gained at ETH have\u2026",
+            "link": "https://www.linkedin.com/posts/mortezasadat_ethzurich-activity-7078288736421044224-y9fQ",
+            "activity_status": "Liked by S.Muhammed Javad Feyzabadi Sani"
+        }
+    ],
+    "similarly_named_profiles": [],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

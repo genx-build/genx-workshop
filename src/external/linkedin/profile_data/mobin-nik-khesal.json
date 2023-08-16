@@ -1,0 +1,401 @@
+{
+    "public_identifier": "mobin-nik-khesal",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/mobin-nik-khesal/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20230816%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20230816T115108Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=7dbe8efa0626afc822204f07492f34a5ef3a3a0f217f30c0df5f2f011687c00e",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/mobin-nik-khesal/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20230816%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20230816T115108Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=0acdfe2172f548c6a8973e3d344483876068ca0a3ff06eadf040f84eebf5ae12",
+    "first_name": "Mobin Nik",
+    "last_name": "khesal",
+    "full_name": "Mobin Nik khesal",
+    "follower_count": null,
+    "occupation": "Data Specialist at DataArt",
+    "headline": "Data Specialist at DataArt",
+    "summary": "I am a student of Artificial Intelligence. I am interested in machine learning and data driven models.",
+    "country": "IR",
+    "country_full_name": "Iran",
+    "city": null,
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2021
+            },
+            "ends_at": null,
+            "company": "DataArt",
+            "company_linkedin_profile_url": "https://ir.linkedin.com/company/dataartglobal",
+            "title": "Data Specialist",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C4E0BAQGDiqm_04VK7g/company-logo_100_100/0/1607242966169?e=1642636800&v=beta&t=hNlmUe_M0pHdvHt-8BfVlQMoFfEPSj40hXzhfUydBBY"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2020
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2021
+            },
+            "company": "Quera",
+            "company_linkedin_profile_url": "https://ir.linkedin.com/company/quera",
+            "title": "Machine learning Contest Designer",
+            "description": null,
+            "location": null,
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/quera/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20230816%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20230816T115108Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=7b33a28871d65b6f0e4d8580221b271b895dacf28c08e1888a39d229a4faa9b7"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2020
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 11,
+                "year": 2020
+            },
+            "company": "Pinket",
+            "company_linkedin_profile_url": "https://ir.linkedin.com/company/pinket",
+            "title": "Data Scientist",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQEnH1J_jze08Q/company-logo_100_100/0/1580723591379?e=1642636800&v=beta&t=XtLnRalLPAYCM5hI31kM5qo7I1hAGXbkUYb92pAHGzk"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2020
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 3,
+                "year": 2020
+            },
+            "company": "Rahnema College",
+            "company_linkedin_profile_url": "https://ir.linkedin.com/company/rahnema-college",
+            "title": "Machine Learning Intern",
+            "description": null,
+            "location": "Tehran Province, Iran",
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/rahnema-college/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20230816%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20230816T115108Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=8217e2887dc3029c053858915fc7bf318de698ef61b4113ff2db34ec63c02f4b"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 9,
+                "year": 2019
+            },
+            "company": "Dotest \u062f\u0648\u062a\u0633\u062a",
+            "company_linkedin_profile_url": "https://ir.linkedin.com/company/dotest-ir",
+            "title": "Software Programmer intern",
+            "description": null,
+            "location": "KARAJ, IRAN",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQF5BqJzgCoSbQ/company-logo_100_100/0/1519918554218?e=1642636800&v=beta&t=nNn-TUjiQtfvM35YND08mJ5dkQNBwIsv7wK2XvHjA-k"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2018
+            },
+            "company": "Sharif University of Technology",
+            "company_linkedin_profile_url": "https://ir.linkedin.com/company/sharif-university-of-technology",
+            "title": "Teaching Assistant",
+            "description": null,
+            "location": null,
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/sharif-university-of-technology/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20230816%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20230816T115108Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=4193b9c759869ef9fca0a6ee1155651ebec2d7ce9eb4600abd5cc938e2b6e0c3"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2018
+            },
+            "company": "Sharif University of Technology",
+            "company_linkedin_profile_url": "https://ir.linkedin.com/company/sharif-university-of-technology",
+            "title": "Bachelor Thesis",
+            "description": "Studying different aspects of Electroweak theory and expanding it to SU(5) theory.",
+            "location": "Tehran",
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/sharif-university-of-technology/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20230816%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20230816T115108Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=4193b9c759869ef9fca0a6ee1155651ebec2d7ce9eb4600abd5cc938e2b6e0c3"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2018
+            },
+            "company": "Amirkabir University of Technology - Tehran Polytechnic",
+            "company_linkedin_profile_url": "https://ir.linkedin.com/company/amirkabir-university-of-technology---tehran-polytechnic",
+            "title": "Teaching Assistant",
+            "description": null,
+            "location": null,
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/amirkabir-university-of-technology---tehran-polytechnic/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20230816%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20230816T115109Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=908f0615b69eac3ecfc20b8a5c37aae0aaec83d7abb06245151561475e5d0ec6"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2021
+            },
+            "field_of_study": "Artificial Intelligence",
+            "degree_name": "Master's degree",
+            "school": "K. N. Toosi University of Technology",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C560BAQG5nn221LMRSA/company-logo_100_100/0/1519893141251?e=1642636800&v=beta&t=JGtIBFm-Z70LnTDYScCSW6h7XqaHg8vHGxWETqOMKUY",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "field_of_study": "Physics",
+            "degree_name": "Master's degree-Drop out",
+            "school": "Sharif University of Technology",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQEYGbmjGIH89A/company-logo_100_100/0/1633504236956?e=1642636800&v=beta&t=Tw5ctSQwCzBBzJzGPPfk3uH9TNjRf1DWAIfev4lMs6k",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2018
+            },
+            "field_of_study": "pure Mathematics",
+            "degree_name": "Minor in mathematics",
+            "school": "Amirkabir University of Technology - Tehran Polytechnic",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C560BAQGrlmqIRZgzCQ/company-logo_100_100/0/1526880355374?e=1642636800&v=beta&t=Xr62hIjnAOCC7EADYvmfGq3dnWwEnEO5ab6fx6vbxSo",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2017
+            },
+            "field_of_study": "Physics",
+            "degree_name": "Bachelor of physics",
+            "school": "Amirkabir University of Technology - Tehran Polytechnic",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C560BAQGrlmqIRZgzCQ/company-logo_100_100/0/1526880355374?e=1642636800&v=beta&t=Xr62hIjnAOCC7EADYvmfGq3dnWwEnEO5ab6fx6vbxSo",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2009
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2013
+            },
+            "field_of_study": "Mathematics and physics",
+            "degree_name": "Foundation degree",
+            "school": "Galam chi",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": null,
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": 500,
+    "people_also_viewed": [
+        {
+            "link": "https://ir.linkedin.com/in/arman-aminian-021b2b18b",
+            "name": "Arman Aminian",
+            "summary": "Student at Shahid Beheshti University",
+            "location": "Tehran"
+        },
+        {
+            "link": "https://ir.linkedin.com/in/ahashemi13",
+            "name": "Alireza Hashemi",
+            "summary": "Data Scientist at blubank",
+            "location": "Iran"
+        },
+        {
+            "link": "https://tr.linkedin.com/in/omiid",
+            "name": "Omiid Sayfun",
+            "summary": "I love building products.",
+            "location": "Istanbul, Turkey"
+        },
+        {
+            "link": "https://ir.linkedin.com/in/fatemeh-shiri-9b6b2618a",
+            "name": "Fatemeh Shiri",
+            "summary": "Data Analyst",
+            "location": "Tehran, Iran"
+        },
+        {
+            "link": "https://ir.linkedin.com/in/mahmood-karimian-34070278",
+            "name": "Mahmood Karimian",
+            "summary": "Senior Data Scientist at Dideo",
+            "location": "Tehran, Iran"
+        },
+        {
+            "link": "https://ir.linkedin.com/in/moein-shariatnia",
+            "name": "Moein Shariatnia",
+            "summary": "Medical student at Tehran University of Medical Sciences | AI and Machine Learning Developer | ML, DL, GAN",
+            "location": "Tehran, Iran"
+        },
+        {
+            "link": "https://ir.linkedin.com/in/arminmkh",
+            "name": "Armin Mokhtari",
+            "summary": "Data Science enthusiasm | Researcher",
+            "location": "Kerman, Iran"
+        },
+        {
+            "link": "https://ir.linkedin.com/in/mohamadreza-shariati-4a42789b",
+            "name": "Mohamadreza Shariati",
+            "summary": "Data Scientist at Cafe Bazaar",
+            "location": "Tehran, Iran"
+        },
+        {
+            "link": "https://ir.linkedin.com/in/hamidrezamoradigol",
+            "name": "HamidReza Moradi",
+            "summary": "Data Science / Computer Vision Trainee",
+            "location": "Tehran"
+        },
+        {
+            "link": "https://ir.linkedin.com/in/yasin-askarian-b1b427147",
+            "name": "Yasin askarian",
+            "summary": "Technical Team Member at Torob",
+            "location": "Iran"
+        },
+        {
+            "link": "https://ir.linkedin.com/in/ali-osia-09212a1aa",
+            "name": "Ali Osia",
+            "summary": "Data Scientist at Shopgram.io - BI Advisor at Cobel Darou",
+            "location": "Tehran"
+        },
+        {
+            "link": "https://ir.linkedin.com/in/sajad-khosravani-s-b21748209",
+            "name": "Sajad Khosravani S.",
+            "summary": "Data science enthusiast",
+            "location": "Tehran, Iran"
+        },
+        {
+            "link": "https://ir.linkedin.com/in/vida-zamani",
+            "name": "vida zamani",
+            "summary": "AI researcher at DataCleanic",
+            "location": "Tehran, Iran"
+        },
+        {
+            "link": "https://ir.linkedin.com/in/matin-zivdar",
+            "name": "Matin Zivdar",
+            "summary": "CE Student at Shahid Beheshti University",
+            "location": "Tehran County"
+        },
+        {
+            "link": "https://ir.linkedin.com/in/arashayat",
+            "name": "Arash Ayatollahi",
+            "summary": "CE Student at Yazd Universiy",
+            "location": "Yazd"
+        },
+        {
+            "link": "https://ir.linkedin.com/in/mahdi-rezaei-6aab38175",
+            "name": "Mahdi Rezaei",
+            "summary": "Teaching Assistant at K. N. Toosi University of Technology",
+            "location": "Tehran, Iran"
+        },
+        {
+            "link": "https://ir.linkedin.com/in/mjdhydri",
+            "name": "Majid Hajiheidari",
+            "summary": "Team Leader at Cafe Bazaar",
+            "location": "Iran"
+        },
+        {
+            "link": "https://ir.linkedin.com/in/behnam-vakili",
+            "name": "Behnam Vakili",
+            "summary": "Data Engineer at Datrick",
+            "location": "Tehran, Iran"
+        },
+        {
+            "link": "https://ir.linkedin.com/in/mohammad-saeed-deylami-3530771b4",
+            "name": "Mohammad Saeed Deylami",
+            "summary": "Data Scientist at Digikala.com",
+            "location": "Tehran, Iran"
+        },
+        {
+            "link": "https://ir.linkedin.com/in/mahdibaghbanzadeh",
+            "name": "Mahdi Baghbanzadeh",
+            "summary": "Senior Data Analyst at Snapp!",
+            "location": "Tehran, Iran"
+        }
+    ],
+    "recommendations": [
+        "Mahmood Karimian                                                                                I have supervised Mobin in machine learning boot camp for Rahnema College.  He is so enthusiastic for learning new things and accurate enough to go deeply into subjects he likes. With his great interest in field of machine learning, I can admit that he will have a bright future in this field."
+    ],
+    "activities": [],
+    "similarly_named_profiles": [],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

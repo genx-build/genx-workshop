@@ -1,0 +1,384 @@
+{
+    "public_identifier": "ali-khodadadi-b91b505b",
+    "profile_pic_url": "https://media.licdn.com/dms/image/C5603AQGwK8h2juoifw/profile-displayphoto-shrink_800_800/0/1577733226131?e=2147483647&v=beta&t=GL3t89gr4NVVjickpnE--sTAaVxN7kqwV_tjE_K7MQ0",
+    "background_cover_image_url": "https://static.licdn.com/aero-v1/sc/h/5q92mjc5c51bjlwaj3rs9aa82",
+    "first_name": "Ali",
+    "last_name": "Khodadadi",
+    "full_name": "Ali Khodadadi",
+    "follower_count": 638,
+    "occupation": "AI Team Lead at Tapsell",
+    "headline": "AI Team Lead at Tapsell",
+    "summary": null,
+    "country": "IR",
+    "country_full_name": "Iran",
+    "city": null,
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2018
+            },
+            "ends_at": null,
+            "company": "Tapsell",
+            "company_linkedin_profile_url": "https://ir.linkedin.com/company/tapsell",
+            "title": "AI Team Lead",
+            "description": null,
+            "location": "Tehran Province, Iran",
+            "logo_url": "https://media.licdn.com/dms/image/D4E0BAQHaHYbNRkQCmA/company-logo_100_100/0/1690878512662?e=2147483647&v=beta&t=azd_CsT4tY2sBKsQlC_8PRYc1IQarPvnZXiV8-jZelU"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 9,
+                "year": 2018
+            },
+            "company": "Tapsell",
+            "company_linkedin_profile_url": "https://ir.linkedin.com/company/tapsell",
+            "title": "Senior Data Scientist",
+            "description": null,
+            "location": "Tehran Province, Iran",
+            "logo_url": "https://media.licdn.com/dms/image/D4E0BAQHaHYbNRkQCmA/company-logo_100_100/0/1690878512662?e=2147483647&v=beta&t=azd_CsT4tY2sBKsQlC_8PRYc1IQarPvnZXiV8-jZelU"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2019
+            },
+            "field_of_study": "Computer Engineering",
+            "degree_name": "Doctor of Philosophy (Ph.D.)",
+            "school": "Sharif University of Technology",
+            "school_linkedin_profile_url": "https://ir.linkedin.com/school/sharif-university-of-technology/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQEYGbmjGIH89A/company-logo_100_100/0/1633504236956?e=2147483647&v=beta&t=Qnn8jW82wcv8Jvr0FyYfqSLAkG-j0wRhHOqX72B-39s",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2010
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2012
+            },
+            "field_of_study": "Computer Engineering",
+            "degree_name": "Master of Science (MSc)",
+            "school": "Sharif University of Technology",
+            "school_linkedin_profile_url": "https://ir.linkedin.com/school/sharif-university-of-technology/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQEYGbmjGIH89A/company-logo_100_100/0/1633504236956?e=2147483647&v=beta&t=Qnn8jW82wcv8Jvr0FyYfqSLAkG-j0wRhHOqX72B-39s",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2006
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2009
+            },
+            "field_of_study": "Computer Engineering",
+            "degree_name": "Bachelor of Science (BSc)",
+            "school": "Sharif University of Technology",
+            "school_linkedin_profile_url": "https://ir.linkedin.com/school/sharif-university-of-technology/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQEYGbmjGIH89A/company-logo_100_100/0/1633504236956?e=2147483647&v=beta&t=Qnn8jW82wcv8Jvr0FyYfqSLAkG-j0wRhHOqX72B-39s",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [
+        {
+            "name": null,
+            "publisher": null,
+            "published_on": {
+                "day": 1,
+                "month": 10,
+                "year": 2018
+            },
+            "description": null,
+            "url": "https://ieeexplore.ieee.org/document/8525337"
+        },
+        {
+            "name": null,
+            "publisher": null,
+            "published_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2018
+            },
+            "description": null,
+            "url": "https://dl.acm.org/doi/abs/10.1145/3162050"
+        },
+        {
+            "name": null,
+            "publisher": null,
+            "published_on": {
+                "day": 1,
+                "month": 2,
+                "year": 2017
+            },
+            "description": null,
+            "url": null
+        },
+        {
+            "name": null,
+            "publisher": null,
+            "published_on": {
+                "day": 1,
+                "month": 2,
+                "year": 2017
+            },
+            "description": null,
+            "url": null
+        },
+        {
+            "name": null,
+            "publisher": null,
+            "published_on": null,
+            "description": null,
+            "url": null
+        },
+        {
+            "name": null,
+            "publisher": null,
+            "published_on": null,
+            "description": null,
+            "url": null
+        }
+    ],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": 500,
+    "people_also_viewed": [
+        {
+            "link": "https://ir.linkedin.com/in/s-muhammed-javad-feyzabadi-sani-8224ba162",
+            "name": "S.Muhammed Javad Feyzabadi Sani",
+            "summary": "Ph.D. student@ SUT, Data scientist @ Tapsell",
+            "location": "Tehran"
+        },
+        {
+            "link": "https://ir.linkedin.com/in/ahmadmozafarnia",
+            "name": "Ahmad Mozafarnia",
+            "summary": "Senior Software Engineer",
+            "location": "Tehran"
+        },
+        {
+            "link": "https://ir.linkedin.com/in/maryam-sharifinezhad",
+            "name": "Maryam Sharifinezhad",
+            "summary": "Data Analyst at Tapsell",
+            "location": "Iran"
+        },
+        {
+            "link": "https://ir.linkedin.com/in/ahmad-attarzadeh-2877b057",
+            "name": "Ahmad Attarzadeh",
+            "summary": "business developer",
+            "location": "Tehran"
+        },
+        {
+            "link": "https://ee.linkedin.com/in/sobhanforoughi",
+            "name": "Sobhan Foroughi",
+            "summary": null,
+            "location": "Tallinn Metropolitan Area"
+        },
+        {
+            "link": "https://ir.linkedin.com/in/mohammad-reza-pourmoradi",
+            "name": "Mohammad Reza Pourmoradi",
+            "summary": "Frontend Chapter Lead at Tapsell",
+            "location": "Iran"
+        },
+        {
+            "link": "https://tr.linkedin.com/in/pouria-nikvand",
+            "name": "Pouria Nikvand",
+            "summary": "Machine Learning Engineer at Tapsell",
+            "location": "Turkey"
+        },
+        {
+            "link": "https://ir.linkedin.com/in/saman-rezapoor-48b9461b7",
+            "name": "Saman Rezapoor",
+            "summary": "Student at Amirkabir University of Technology - Tehran Polytechnic",
+            "location": "Tehran Province, Iran"
+        },
+        {
+            "link": "https://ir.linkedin.com/in/negin-razavi-64555953",
+            "name": "Negin Razavi",
+            "summary": "Software Engineer at Tapsell",
+            "location": "Iran"
+        },
+        {
+            "link": "https://ir.linkedin.com/in/maryam-ramezani-a25ba71ab",
+            "name": "Maryam Ramezani",
+            "summary": "Data Science, Business Intelligence, and  Artificial Intelligence Consultant  | Lecturer at Sharif University of Technology | Computational Social Science |Co-founder @Wize Analytics",
+            "location": "Tehran County"
+        },
+        {
+            "link": "https://ir.linkedin.com/in/esmat-rashidi-a82256191",
+            "name": "esmat rashidi",
+            "summary": "Back End Developer at Tapsell",
+            "location": "Iran"
+        },
+        {
+            "link": "https://ir.linkedin.com/in/mohammad-hossein-rohban-75567677",
+            "name": "Mohammad Hossein Rohban",
+            "summary": null,
+            "location": "Iran"
+        },
+        {
+            "link": "https://ir.linkedin.com/in/mostafa-bayat-30316a1a0",
+            "name": "Mostafa Bayat",
+            "summary": "DevOps Engineer at Tapsell",
+            "location": "Iran"
+        },
+        {
+            "link": "https://ir.linkedin.com/in/rayhan-amini",
+            "name": "Rayhaneh Amini",
+            "summary": "DevOps at Snapp!",
+            "location": "Tehran"
+        },
+        {
+            "link": "https://ae.linkedin.com/in/amin-sabzmakan-a5059765",
+            "name": "Amin Sabzmakan",
+            "summary": null,
+            "location": "Dubai"
+        },
+        {
+            "link": "https://nl.linkedin.com/in/ruhollah-nematzade-74633151",
+            "name": "Ruhollah Nematzade",
+            "summary": null,
+            "location": "Rotterdam"
+        },
+        {
+            "link": "https://ir.linkedin.com/in/faezeh-attarzadeh",
+            "name": "Faezeh Attarzadeh",
+            "summary": "Product Manager at Tapsell",
+            "location": "Tehran"
+        },
+        {
+            "link": "https://ir.linkedin.com/in/yeganeh-ahghari-9851231b3",
+            "name": "yeganeh ahghari",
+            "summary": "Key Account Manager at Tapsell",
+            "location": "Tehran"
+        },
+        {
+            "link": "https://ir.linkedin.com/in/vahid-ashrafolketab-3153a5181",
+            "name": "Vahid Ashrafolketab",
+            "summary": "MBA | Business Analyst | Performance Marketing",
+            "location": "Tehran Province, Iran"
+        },
+        {
+            "link": "https://ir.linkedin.com/in/elham-ahmadi-1b145011a",
+            "name": "Elham Ahmadi",
+            "summary": "Campaign team lead at Tapsell",
+            "location": "Iran"
+        }
+    ],
+    "recommendations": [],
+    "activities": [
+        {
+            "title": "\u062c\u0645\u0639\u0647\u200c\u06cc \u0627\u06cc\u0646 \u0647\u0641\u062a\u0647\u060c \u0642\u0635\u062f \u062f\u0627\u0631\u06cc\u0645 \u062a\u0627 \u06cc\u06a9 \u06a9\u0627\u0631\u06af\u0627\u0647 \u0645\u062d\u0635\u0648\u0644\u06cc \u0648 \u06a9\u0633\u0628\u200c\u0648\u200c\u06a9\u0627\u0631\u06cc \u062a\u0648\u06cc GenX \u0628\u0631\u06af\u0632\u0627\u0631 \u06a9\u0646\u06cc\u0645.\u062a\u0648\u06cc \u0627\u06cc\u0646 \u06a9\u0627\u0631\u06af\u0627\u0647 \u0645\u062d\u0645\u062f\u062c\u0648\u0627\u062f \u0627\u0628\u0648\u0637\u0627\u0644\u0628\u06cc\u060c \u062f\u0631\u0628\u0627\u0631\u0647\u200c\u06cc \u067e\u06cc\u062f\u0627 \u06a9\u0631\u062f\u0646 \u0648 \u0627\u0631\u0632\u06cc\u0627\u0628\u06cc\u2026",
+            "link": "https://www.linkedin.com/posts/genx-build_%D8%AC%D9%85%D8%B9%D9%87%DB%8C-%D8%A7%DB%8C%D9%86-%D9%87%D9%81%D8%AA%D9%87-%D9%82%D8%B5%D8%AF-%D8%AF%D8%A7%D8%B1%DB%8C%D9%85-%D8%AA%D8%A7-%DB%8C%DA%A9-%DA%A9%D8%A7%D8%B1%DA%AF%D8%A7%D9%87-%D9%85%D8%AD%D8%B5%D9%88%D9%84%DB%8C-activity-7094981467155394560-yFqY",
+            "activity_status": "Liked by Ali Khodadadi"
+        },
+        {
+            "title": "\u0648\u0631\u0648\u062f \u0645\u0645\u0646\u0648\u0639 \u062c\u062f\u06cc\u062f Google Play \ud83d\udeab \u0628\u0627 \u062a\u0648\u062c\u0647 \u0628\u0647 \u0633\u06cc\u0627\u0633\u062a\u200c\u0647\u0627\u06cc \u062c\u062f\u06cc\u062f Google Play\u060c \u062c\u0645\u0639\u200c\u0622\u0648\u0631\u06cc \u0627\u0637\u0644\u0627\u0639\u0627\u062a Package Name \u0647\u0627\u06cc \u0646\u0635\u0628 \u0634\u062f\u0647 \u0628\u0631 \u0631\u0648\u06cc \u062f\u0633\u062a\u06af\u0627\u0647\u200c \u06a9\u0627\u0631\u0628\u0631\u0627\u0646 \u062e\u0644\u0627\u0641 \u0642\u0648\u0627\u0646\u06cc\u0646\u2026",
+            "link": "https://www.linkedin.com/posts/tapsell_%D8%AA%D9%BE%D8%B3%D9%84-%D8%AF%DB%8C%D8%AC%DB%8C%D8%AA%D8%A7%D9%84%D9%85%D8%A7%D8%B1%DA%A9%D8%AA%DB%8C%D9%86%DA%AF-%D8%AA%D8%A8%D9%84%DB%8C%D8%BA%D8%A7%D8%AA-activity-7093611613219344385-LjHT",
+            "activity_status": "Liked by Ali Khodadadi"
+        },
+        {
+            "title": "\u0646\u0648 \u0634\u062f\u0646 \u0686\u0647\u0631\u0647 #\u062a\u067e\u0633\u0644\u0628\u0647 \u0646\u0638\u0631\u0645 \u0646\u0648 \u0634\u062f\u0646 \u0648\u0642\u062a\u06cc \u0627\u062b\u0631\u06af\u0630\u0627\u0631\u062a\u0631\u0647 \u06a9\u0647 \u0628\u062a\u0648\u0646\u0647 \u0627\u0628\u062a\u062f\u0627 \u0627\u0632 \u062f\u0631\u0648\u0646 \u0627\u062a\u0641\u0627\u0642 \u0628\u06cc\u0648\u0641\u062a\u0647 \u062a\u0627 \u062f\u0631 \u0627\u062f\u0627\u0645\u0647 \u062a\u062c\u0644\u06cc \u0628\u06cc\u0631\u0648\u0646\u06cc\u0634 \u0647\u0645 \u0647\u0648\u06cc\u062f\u0627 \u0628\u0634\u0647.\u0635\u0645\u06cc\u0645\u0627\u0646\u0647 \u062e\u0648\u0634\u062d\u0627\u0644\u0645 \u06a9\u0647 \u0627\u0632\u2026",
+            "link": "https://www.linkedin.com/posts/sina-rezanavaz_%D8%AA%D9%BE%D8%B3%D9%84-%D9%87%D9%84%D8%AF%DB%8C%D9%86%DA%AF-%D8%B9%D8%B2%D9%85-activity-7092089755126878208-aBOh",
+            "activity_status": "Liked by Ali Khodadadi"
+        },
+        {
+            "title": "\u062b\u0628\u062a \u0646\u0627\u0645 \u0634\u0631\u0648\u0639 \u0634\u062f\u061b \u062c\u0627 \u0646\u0645\u0648\u0646\u06cc! :) \u0627\u06cc\u0646 \u0631\u0648\u0632\u0627 \u0647\u0631\u062c\u0627 \u0645\u06cc\u200c\u0631\u06cc \u0635\u062d\u0628\u062a \u0627\u0632 \u0647\u0648\u0634\u200c \u0645\u0635\u0646\u0648\u0639\u06cc \u0645\u0648\u0644\u062f \u0648 \u06a9\u0627\u0631\u0628\u0631\u062f\u0627\u06cc \u0641\u0648\u0642\u200c\u0627\u0644\u0639\u0627\u062f\u0647\u200c\u0634\u0647! \u0648\u0642\u062a\u0634\u0647 \u062a\u0648 \u0647\u0645 \u0627\u0632 \u0627\u06cc\u0646 \u0627\u0628\u0632\u0627\u0631 \u0628\u0631\u0627\u06cc \u0633\u0627\u062e\u062a\u0646 \u0627\u0633\u062a\u0627\u0631\u062a\u0627\u067e\u2026",
+            "link": "https://www.linkedin.com/posts/genx-build_%D8%AB%D8%A8%D8%AA-%D9%86%D8%A7%D9%85-%D8%B4%D8%B1%D9%88%D8%B9-%D8%B4%D8%AF-%D8%AC%D8%A7-%D9%86%D9%85%D9%88%D9%86%DB%8C-%D8%A7%DB%8C%D9%86-%D8%B1%D9%88%D8%B2%D8%A7-activity-7092521614054936576-A-bX",
+            "activity_status": "Liked by Ali Khodadadi"
+        },
+        {
+            "title": "\u06af\u0632\u0627\u0631\u0634 \u0633\u0627\u0644 1401 \u0645\u062a\u0631\u06cc\u06a9\u0633 \u0645\u0646\u062a\u0634\u0631 \u0634\u062f! \u062f\u0631 \u0633\u0627\u0644 \u06af\u0630\u0634\u062a\u0647 \u0628\u06cc\u0634 \u0627\u0632 \u06f1\u06f0\u06f0\u06f0 \u0627\u067e\u0644\u06cc\u06a9\u06cc\u0634\u0646 \u0645\u0646\u062a\u0634\u0631 \u0634\u062f\u0647 \u062f\u0631 \u0627\u0633\u062a\u0648\u0631\u0647\u0627\u06cc \u0645\u0639\u062a\u0628\u0631\u060c \u0627\u0632 \u0645\u062a\u0631\u06cc\u06a9\u0633 \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u06a9\u0631\u062f\u0647\u200c\u0627\u0646\u062f \u06a9\u0647 \u06cc\u06a9 \u0633\u0648\u0645 \u0622\u0646\u200c\u0647\u0627 \u0631\u0627\u2026",
+            "link": "https://www.linkedin.com/posts/metrix-ir_%DA%AF%D8%B2%D8%A7%D8%B1%D8%B4-%D8%B3%D8%A7%D9%84-1401-%D9%85%D8%AA%D8%B1%DB%8C%DA%A9%D8%B3-activity-7085879208840675328-y6e0",
+            "activity_status": "Liked by Ali Khodadadi"
+        },
+        {
+            "title": "\ud83c\udf1fQuick updates about my past few weeks\ud83c\udf1f I've had insightful conversations with leaders from different organizations. Our main goal? Creating a\u2026",
+            "link": "https://www.linkedin.com/posts/aminvat_connecting-the-dots-look-for-the-the-one-activity-7084571116467351552-dgEl",
+            "activity_status": "Liked by Ali Khodadadi"
+        },
+        {
+            "title": "\u0645\u06cc\u06a9\u0631\u0648\u0645\u0633\u062a\u0631\u0647\u0627\u06cc \u062f\u0627\u0646\u0634\u06a9\u062f\u0647 \u06a9\u0627\u0645\u067e\u06cc\u0648\u062a\u0631 \u0634\u0631\u06cc\u0641 \u0631\u0648 \u0627\u0632 \u062f\u0633\u062a \u0646\u062f\u06cc\u062f\u060c \u0627\u06af\u0631: - \u062f\u0646\u0628\u0627\u0644 \u06a9\u0633\u0628 \u0645\u0647\u0627\u0631\u062a \u062f\u0631 \u062d\u0648\u0632\u0647\u200c\u0647\u0627\u06cc \u0645\u0648\u0631\u062f \u0646\u06cc\u0627\u0632 \u0628\u0627\u0632\u0627\u0631 \u06a9\u0627\u0631\u06cc\u062f.- \u062f\u0646\u0628\u0627\u0644 \u0645\u062f\u0631\u06a9 \u0645\u0639\u062a\u0628\u0631 \u062f\u0648 \u0632\u0628\u0627\u0646\u0647 \u0627\u0632 \u0628\u0647\u062a\u0631\u06cc\u0646\u2026",
+            "link": "https://www.linkedin.com/posts/mohammadamin-fazli-20b6b778_%D9%85%DB%8C%DA%A9%D8%B1%D9%88%D9%85%D8%B3%D8%AA%D8%B1%D9%87%D8%A7%DB%8C-%D8%AF%D8%A7%D9%86%D8%B4%DA%A9%D8%AF%D9%87-%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1-%D8%B4%D8%B1%DB%8C%D9%81-%D8%B1%D9%88-%D8%A7%D8%B2-activity-7074746656792961024-sgcR",
+            "activity_status": "Liked by Ali Khodadadi"
+        },
+        {
+            "title": "This is an excellent opportunity for interested individuals to level up their knowledge and skills in advanced subjects in computer science. The\u2026",
+            "link": "https://www.linkedin.com/posts/mohammad-hossein-rohban-75567677_%D9%85%DB%8C%DA%A9%D8%B1%D9%88%D9%85%D8%B3%D8%AA%D8%B1-activity-7080428678437822464-J_jn",
+            "activity_status": "Liked by Ali Khodadadi"
+        }
+    ],
+    "similarly_named_profiles": [
+        {
+            "name": "Ali Khodadadi",
+            "link": "https://ir.linkedin.com/in/a-khodadadi",
+            "summary": "DevOps engineer at Ahanonline",
+            "location": "Tehran"
+        },
+        {
+            "name": "Ali Khodadadi",
+            "link": "https://ca.linkedin.com/in/ali-khodadadi-masc",
+            "summary": "Machine Learning Engineer @ Walmart Canada",
+            "location": "Greater Toronto Area, Canada"
+        },
+        {
+            "name": "Ali Khodadadi",
+            "link": "https://ca.linkedin.com/in/alikhodadadi1368",
+            "summary": "MSc. Material Science Engineering/CWB Level II Certified Welding Inspector/CSWIP 3.1/ASNT Full Level II/QC & QA Inspector/Welding Inspector",
+            "location": "Hamilton, ON"
+        },
+        {
+            "name": "ali khodadadi",
+            "link": "https://ir.linkedin.com/in/ali26kh26",
+            "summary": "Frontend-End Developer | React.js  Next.js",
+            "location": "Bushehr Province, Iran"
+        }
+    ],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

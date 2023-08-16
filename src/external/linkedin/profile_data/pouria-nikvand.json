@@ -1,0 +1,76 @@
+{
+    "public_identifier": "pouria-nikvand",
+    "profile_pic_url": null,
+    "background_cover_image_url": null,
+    "first_name": "Pouria",
+    "last_name": "Nikvand",
+    "full_name": "Pouria Nikvand",
+    "follower_count": null,
+    "occupation": "Research Assistant at Sbu Nlp Lab",
+    "headline": null,
+    "summary": null,
+    "country": "US",
+    "country_full_name": null,
+    "city": null,
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "company": "Sbu Nlp Lab",
+            "company_linkedin_profile_url": null,
+            "title": "Research Assistant",
+            "description": null,
+            "location": null,
+            "logo_url": null
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2020
+            },
+            "field_of_study": null,
+            "degree_name": "Masters",
+            "school": "Shahid Beheshti University",
+            "school_linkedin_profile_url": "linkedin.com/school/shahid-beheshti-university",
+            "description": null,
+            "logo_url": null,
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": 415,
+    "people_also_viewed": [],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}
