@@ -9,7 +9,7 @@ PROFILE_DIR = Path(__file__).parent / "profile_data"
 
 
 def _extract_profile_name(linkedin_url: str) -> str | None:
-    pattern = r"www\.linkedin\.com/in/([^/]+)"
+    pattern = r"linkedin\.com/in/([^/]+)"
     match = re.search(pattern, linkedin_url)
     if match:
         return match.group(1)

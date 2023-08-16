@@ -1,7 +1,9 @@
 {
     "cSpell.words": [
+        "googlesearch",
         "langchain",
         "mypy",
+        "pydantic",
         "pypackages",
         "venv"
     ]

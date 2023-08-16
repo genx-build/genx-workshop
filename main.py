@@ -6,6 +6,7 @@ from langchain.chains import LLMChain
 from langchain.chat_models import ChatOpenAI
 from langchain.prompts import PromptTemplate
 
+from src.agents.linkedin_lookup_agent import lookup as lookup_agent
 from src.external.linkedin import scrape_linkedin_profile
 
 template = """""
@@ -15,14 +16,14 @@ template = """""
 """
 
 if __name__ == "__main__":
+    print("#########  start  ###########")
     tmp = PromptTemplate(input_variables=["information"], template=template)
     llm = ChatOpenAI(model_name="gpt-3.5-turbo", temperature=0)
     chain = LLMChain(llm=llm, prompt=tmp)
-    mp = "https://www.linkedin.com/in/mobin-nik-khesal/"
-    ap = "https://www.linkedin.com/in/ali-khodadadi-b91b505b/"
-    smj = "https://www.linkedin.com/in/s-muhammed-javad-feyzabadi-sani-8224ba162"
-    pn = "https://www.linkedin.com/in/pouria-nikvand"
-    profile = scrape_linkedin_profile(mp)
+
+    linkedin_profile_url = lookup_agent("mobin nikkhesal")
+    print(linkedin_profile_url)
+    profile = scrape_linkedin_profile(linkedin_profile_url)
 
     output = chain.run(information=profile)
     print(100 * "#")
