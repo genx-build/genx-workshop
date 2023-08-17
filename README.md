@@ -4,7 +4,13 @@ setup env and install langchain
 
 ```bash
 $ python3 -m venv .venv
-‌$ pip install langchain
+‌$ pip install -r requirements.txt
+```
+
+for lint and work with jupyter notebook
+
+```bash
+‌$ pip install -r requirements_dev.txt
 ```
 
 ## langchain
@@ -13,7 +19,7 @@ it is a cool abstraction! that help create prototype of complex application fast
 
 it can connect LLM to external sources easily
 
-### model-io
+### component
 
 The core element of any language model application is the model.
 
