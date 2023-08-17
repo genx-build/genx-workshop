@@ -11,7 +11,7 @@ from src.external.linkedin import scrape_linkedin_profile
 from src.output_parser import UserInfo, user_info_parser
 
 
-def llm_engine(user_profile_name: str) -> UserInfo:
+def llm_engine(user_profile_name: str) -> UserInfo | None:
     template = """
         given the linkedin information {information} about the person. I want you to create:
         1- a paragraph summery 
@@ -26,13 +26,15 @@ def llm_engine(user_profile_name: str) -> UserInfo:
             "format_instructions": user_info_parser.get_format_instructions()
         },
     )
-    llm = ChatOpenAI(model_name="gpt-3.5-turbo", temperature=0)
+    llm = ChatOpenAI(model_name="gpt-3.5-turbo-16k", temperature=0)
     chain = LLMChain(llm=llm, prompt=tmp)
 
     linkedin_profile_url = lookup_agent(user_profile_name)
-    print(linkedin_profile_url)
+    print("linkedin_profile_url", linkedin_profile_url)
     profile = scrape_linkedin_profile(linkedin_profile_url)
+    if (profile is None) or (len(profile) == 0):
+        print("can not find proper profile")
+        return None
 
     output = chain.run(information=profile)
-    print(100 * "#")
     return user_info_parser.parse(output)

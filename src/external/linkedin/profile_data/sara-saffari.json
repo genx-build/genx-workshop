@@ -1,0 +1,443 @@
+{
+    "public_identifier": "sara-saffari",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/sara-saffari/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20230817%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20230817T065234Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=b8c4f56db3733b6fac42cfa8310c63c2c410f44a3e2e6b182547f06fbe155e0c",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/sara-saffari/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20230817%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20230817T065234Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=507eb570c3b3d51d5d17fb46cd7f1afeb9effdb50738c418df918abab293bea5",
+    "first_name": "Sara",
+    "last_name": "Saffari",
+    "full_name": "Sara Saffari",
+    "follower_count": 619,
+    "occupation": "Project Manager at Metrix",
+    "headline": "Product Manager",
+    "summary": "A product manager keen on advancing skills, gaining knowledge and building up invaluable product experience; with educational background in computer engineering and professional background in marketing and business development. \nIn other words, I\u2019ve seen both ends and choose to stand as a PM!\nBtw, I am a multitasker perfectionist with deadline ! :))",
+    "country": "IR",
+    "country_full_name": "Iran",
+    "city": "Tehran",
+    "state": "Tehran Province",
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2022
+            },
+            "ends_at": null,
+            "company": "Metrix",
+            "company_linkedin_profile_url": "https://ir.linkedin.com/company/metrix-ir",
+            "title": "Project Manager",
+            "description": "Metrix is about to become the all-in-one platform for performance marketers. So discovery, prioritization, deciding and making an alignment were followed by documenting functional requirements as well as non-functional with the help of tech team.",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQEayGeOfJbhzw/company-logo_100_100/0/1623301202010?e=2147483647&v=beta&t=3dwYRnHYaLus5V8OgXWVsoU4bzQYzBJVQjxEzPf7avc"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2021
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 9,
+                "year": 2022
+            },
+            "company": "Tapsell",
+            "company_linkedin_profile_url": "https://ir.linkedin.com/company/tapsell",
+            "title": "Product Manager",
+            "description": "Delivering a product for Iran's biggest Ad-network, initially started with discovery to clarify product's important aspects to design a fit for the risen need. \nPutting them into a roadmap and breaking into small deliverables according to prerequisite and impact was next. During development phase, defining user stories and a practical DOD was essential to achieve the first version of MVP.",
+            "location": "Tehran, Iran",
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/tapsell/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20230817%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20230817T065234Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=2b36b1e8d62b81c4aea890f7a6f6866221a6439fe181242e00549f191e614979"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 4,
+                "year": 2021
+            },
+            "company": "tritapp",
+            "company_linkedin_profile_url": "https://ir.linkedin.com/company/tritapp",
+            "title": "Business Development Specialist",
+            "description": null,
+            "location": null,
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/tritapp/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20230817%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20230817T065234Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=9e91a64972d6656e65b7ccd20c65119c1ab2310d80e2e35e8aa00d63b4d51960"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2019
+            },
+            "company": "tritapp",
+            "company_linkedin_profile_url": "https://ir.linkedin.com/company/tritapp",
+            "title": "Summer Intern",
+            "description": null,
+            "location": null,
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/tritapp/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20230817%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20230817T065234Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=9e91a64972d6656e65b7ccd20c65119c1ab2310d80e2e35e8aa00d63b4d51960"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2020
+            },
+            "field_of_study": "Computer Engineering",
+            "degree_name": "Bachelor's degree",
+            "school": "University of Tehran",
+            "school_linkedin_profile_url": "https://ir.linkedin.com/school/university-of-tehran/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQE-NIX4SUSCOg/company-logo_100_100/0/1519885781062?e=2147483647&v=beta&t=tMl6-Ik4y8hgrz_qPilR6UkUAVoKdUzqa-daHTi6zF0",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "English",
+        "German",
+        "Turkish",
+        "Persian"
+    ],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2019
+            },
+            "ends_at": null,
+            "title": "Committee Member",
+            "cause": "Education",
+            "company": "IAESTE Iran",
+            "company_linkedin_profile_url": null,
+            "description": "Planning, fundraising, performing events and also helping foreign intern in Iran.",
+            "logo_url": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "title": "Assistant Treasurer and Executive",
+            "cause": "Science and Technology",
+            "company": "Institute for Research in Fundamental Sciences (IPM)",
+            "company_linkedin_profile_url": "https://ir.linkedin.com/company/institute-for-research-in-fundamental-sciences-ipm",
+            "description": "Treasurer and Executive member for the annual FSEN Conference.",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQFVG0_9MXigdw/company-logo_100_100/0/1567395968945?e=2147483647&v=beta&t=ny9w3s3RgtTiVI0S1iXOy_GYvzDWJj7pWaNHf6fsrhQ"
+        }
+    ],
+    "certifications": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2021
+            },
+            "ends_at": null,
+            "name": "IELTS_Academic BAND8",
+            "license_number": null,
+            "display_source": null,
+            "authority": "IDP Education Ltd",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2020
+            },
+            "ends_at": null,
+            "name": "Mindfulness Practices",
+            "license_number": null,
+            "display_source": "www.linkedin.com",
+            "authority": "LinkedIn",
+            "url": "https://www.linkedin.com/learning/certificates/5f1dd347311b9f091e57676734aee84d34a8722d4cff645c1cbfaacd4a748d87?trk=backfilled_certificate"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2019
+            },
+            "ends_at": null,
+            "name": "Certificate in German - B1 Level",
+            "license_number": null,
+            "display_source": null,
+            "authority": "Iran Language Institute",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2014
+            },
+            "ends_at": null,
+            "name": "Certificate in English Advance Level",
+            "license_number": null,
+            "display_source": null,
+            "authority": "Iran Language Institute",
+            "url": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "name": "Beginner & Intermediate Photography",
+            "license_number": "TR/ME/2019/20764",
+            "display_source": null,
+            "authority": "INOCERT Canada",
+            "url": null
+        }
+    ],
+    "connections": 500,
+    "people_also_viewed": [
+        {
+            "link": "https://ir.linkedin.com/in/baherehhamraz",
+            "name": "Bahereh Hamraz",
+            "summary": "Product Manager at Alibaba, EMBA at Sharif University of Technology",
+            "location": "Tehran Province, Iran"
+        },
+        {
+            "link": "https://ir.linkedin.com/in/behrouz-nazari",
+            "name": "Behrouz Nazari",
+            "summary": "Product Manager at Gajmarket",
+            "location": "Tehran Province, Iran"
+        },
+        {
+            "link": "https://ir.linkedin.com/in/haleh-ebrahimi-998a5a137",
+            "name": "Haleh Ebrahimi",
+            "summary": "Product Manager at Baman.Club",
+            "location": "Tehran Province, Iran"
+        },
+        {
+            "link": "https://ir.linkedin.com/in/mobina-nikoomanesh-ba1508213",
+            "name": "Mobina Nikoomanesh",
+            "summary": "Product manager at Fidibo",
+            "location": "Tehran Province, Iran"
+        },
+        {
+            "link": "https://ir.linkedin.com/in/mehri-gharakhanlu",
+            "name": "Mehri Gharakhanlu",
+            "summary": "Product Lead at Metrix",
+            "location": "Tehran Province, Iran"
+        },
+        {
+            "link": "https://ir.linkedin.com/in/farzan-falahat",
+            "name": "Farzan Falahat",
+            "summary": "Director of product @snappfood",
+            "location": "Tehran Province, Iran"
+        },
+        {
+            "link": "https://uk.linkedin.com/in/mohsen-sadeghi-garmaroudi",
+            "name": "Mohsen Sadeghi",
+            "summary": "Product Manager",
+            "location": "United Kingdom"
+        },
+        {
+            "link": "https://ir.linkedin.com/in/saghar-rafiee-5619675a",
+            "name": "Saghar Rafiee",
+            "summary": "Director at Metrix |Mobile Measurement Platform|",
+            "location": "Tehran"
+        },
+        {
+            "link": "https://ir.linkedin.com/in/majid-pouramini-7b0b65147",
+            "name": "Majid Pouramini",
+            "summary": "Frontend Engineer at Metrix",
+            "location": "Tehran Province, Iran"
+        },
+        {
+            "link": "https://ir.linkedin.com/in/behnood-masoudi",
+            "name": "Behnood Masoudi",
+            "summary": "Product Manager at TAPSI",
+            "location": "Tehran Province, Iran"
+        },
+        {
+            "link": "https://ir.linkedin.com/in/erfan-tazimi",
+            "name": "Erfan Tazimi",
+            "summary": "Product Manager",
+            "location": "Tehran Province, Iran"
+        },
+        {
+            "link": "https://ir.linkedin.com/in/rhalireza",
+            "name": "Alireza Rahimi",
+            "summary": "Product Manager at Tapsell",
+            "location": "Iran"
+        },
+        {
+            "link": "https://ir.linkedin.com/in/faezeh-attarzadeh",
+            "name": "Faezeh Attarzadeh",
+            "summary": "Product Manager at Tapsell",
+            "location": "Tehran"
+        },
+        {
+            "link": "https://ir.linkedin.com/in/ali-khandan",
+            "name": "Ali Khandan",
+            "summary": "Product Manager at iToll",
+            "location": "Tehran"
+        },
+        {
+            "link": "https://ir.linkedin.com/in/hamidreza-javadizade-a39259a7",
+            "name": "Hamidreza Javadizade",
+            "summary": null,
+            "location": "Tehran"
+        },
+        {
+            "link": "https://ir.linkedin.com/in/sadafniknam",
+            "name": "Sadaf Niknam",
+            "summary": "Frontend Engineer at Metrix | Angular | React",
+            "location": "Tehran Province, Iran"
+        },
+        {
+            "link": "https://ir.linkedin.com/in/mahdi-mohajeri-58831120b",
+            "name": "Mahdi Mohajeri",
+            "summary": "Digital Marketing Specialist | Digital Marketing consultant",
+            "location": "Tehran Province, Iran"
+        },
+        {
+            "link": "https://ir.linkedin.com/in/amir-rezaei-42b930219",
+            "name": "Amir Rezaei",
+            "summary": "Front end developer at Metrix",
+            "location": "Tehran Province, Iran"
+        },
+        {
+            "link": "https://ir.linkedin.com/in/arpahlavan",
+            "name": "Amirreza Pahlavan",
+            "summary": "Product Manager at Alibaba Travels | Tech, Product and Business Strategy Enthusiast",
+            "location": "Tehran Province, Iran"
+        },
+        {
+            "link": "https://ir.linkedin.com/in/zahra-hamdi-8364a8208",
+            "name": "Zahra Hamdi",
+            "summary": "Product Manager at BehfaLab",
+            "location": "Tehran"
+        }
+    ],
+    "recommendations": [],
+    "activities": [
+        {
+            "title": "Learning how to navigate the \"crazy busy\" moments in your life is essential for your well-being. In this TED Talk, ER doctor Darria Long shares her\u2026",
+            "link": "https://www.linkedin.com/posts/ted-conferences_learning-how-to-navigate-the-crazy-busy-activity-7092507571483201536-PZyZ",
+            "activity_status": "Liked by Sara Saffari"
+        },
+        {
+            "title": "IKIGAI  is a Japanese concept referring to something that gives a person a sense of purpose. What is your purpose as a Product Manager? What made you\u2026",
+            "link": "https://www.linkedin.com/posts/product-school_productmanagement-activity-7095761280816267264-irqm",
+            "activity_status": "Liked by Sara Saffari"
+        },
+        {
+            "title": "\u0627\u06cc\u0646 \u0628\u0632\u0631\u06af\u062a\u0631\u06cc\u0646 \u0648 \u0645\u0647\u0645\u200c\u062a\u0631\u06cc\u0646 \u0622\u0645\u0648\u0632\u0647\u200c\u0627\u06cc \u0627\u0633\u062a \u06a9\u0647 \u062f\u0631 \u0637\u0648\u0644 \u0627\u06cc\u0646 \u0633\u0627\u0644\u200c\u0647\u0627 \u06cc\u0627\u062f \u06af\u0631\u0641\u062a\u0645. \u0646\u06a9\u062a\u0647 \u0645\u0647\u0645 \u0627\u06cc\u0646\u0647 \u06a9\u0647 \u0647\u06cc\u0686 \u0633\u0627\u0632\u0645\u0627\u0646\u06cc \u0628\u0647 \u0634\u0645\u0627 \u0646\u0645\u06cc\u200c\u06af\u0647 \u0641\u0631\u0647\u0646\u06af \u0633\u0645\u06cc \u062f\u0627\u0631\u0645. \u0627\u062d\u062a\u0645\u0627\u0644\u0646 \u06cc\u0647 \u0633\u0631\u06cc \u0628\u0631\u0686\u0633\u0628\u2026",
+            "link": "https://www.linkedin.com/posts/saeid-sisakhti_%D8%A7%DB%8C%D9%86-%D8%A8%D8%B2%D8%B1%DA%AF%D8%AA%D8%B1%DB%8C%D9%86-%D9%88-%D9%85%D9%87%D9%85%D8%AA%D8%B1%DB%8C%D9%86-%D8%A2%D9%85%D9%88%D8%B2%D9%87%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA-%DA%A9%D9%87-%D8%AF%D8%B1-activity-7095706873772810240-kyTD",
+            "activity_status": "Liked by Sara Saffari"
+        },
+        {
+            "title": "\u0641\u0631\u062f\u0627 \u0628\u0631\u0627\u06cc \u0634\u0631\u06a9\u062a\u200c\u06a9\u0646\u0646\u062f\u0647\u200c\u0647\u0627\u06cc \u062c\u0646\u06cc\u06a9\u0633 \u06a9\u0627\u0631\u06af\u0627\u0647\u06cc \u062e\u0648\u0627\u0647\u0645 \u062f\u0627\u0634\u062a \u062f\u0631 \u0645\u0648\u0631\u062f \u0633\u0627\u062e\u062a\u0646 \u0648 \u0633\u0627\u0632\u0646\u062f\u0647 \u0628\u0648\u062f\u0646. \u062f\u0631\u0633 \u067e\u0633 \u062e\u0648\u0627\u0647\u0645 \u062f\u0627\u062f \u0648 \u0627\u0632 \u062e\u0648\u062f\u0645 \u0686\u06cc\u0632\u06cc \u0628\u0631\u0627\u06cc \u06af\u0641\u062a\u0646 \u0646\u062f\u0627\u0631\u0645. \u0627\u06af\u0647 \u062f\u0648\u0633\u062a \u062f\u0627\u0631\u06cc\u062f \u0634\u0645\u0627 \u0647\u0645\u2026",
+            "link": "https://www.linkedin.com/posts/mohammad-javad-aboutalebi_%D9%81%D8%B1%D8%AF%D8%A7-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B4%D8%B1%DA%A9%D8%AA%DA%A9%D9%86%D9%86%D8%AF%D9%87%D9%87%D8%A7%DB%8C-%D8%AC%D9%86%DB%8C%DA%A9%D8%B3-%DA%A9%D8%A7%D8%B1%DA%AF%D8%A7%D9%87%DB%8C-%D8%AE%D9%88%D8%A7%D9%87%D9%85-activity-7095350350156550144-fJLp",
+            "activity_status": "Liked by Sara Saffari"
+        },
+        {
+            "title": "\u062f\u0648\u062a\u0627 \u0641\u0631\u0635\u062a \u0634\u063a\u0644\u06cc \u062e\u0648\u0628 \u0628\u0631\u0627\u06cc \u067e\u0648\u0632\u06cc\u0634\u0646 \u0641\u0631\u0627\u0646\u062a \u0627\u0646\u062f \u062f\u0648\u0644\u0648\u067e\u0631 \u0633\u06cc\u0646\u06cc\u0648\u0631 \u062a\u0648\u06cc \u0634\u0631\u06a9\u062a \u0645\u0627 \u0628\u0647 \u0648\u062c\u0648\u062f \u0627\u0648\u0645\u062f\u0647. \u0645\u0647\u0627\u0631\u062a \u0647\u0627\u06cc\u06cc \u06a9\u0647 \u0644\u0627\u0632\u0645 \u062f\u0627\u0631\u06cc\u0645 \u0645\u0648\u0627\u0631\u062f \u0632\u06cc\u0631 \u0647\u0633\u062a\u0646 :React v17Next JS\u2026",
+            "link": "https://www.linkedin.com/posts/hamidreza-mozhdeh_google-forms-sign-in-activity-7092430834040729600-3lV0",
+            "activity_status": "Liked by Sara Saffari"
+        },
+        {
+            "title": "#ProductManagement #Career tip 5 (of 5) - Think like a GM. \u201cInside the mind of a product manager: communication 40%, design 20%, engineering 20%\u2026",
+            "link": "https://www.linkedin.com/posts/danilotauro_productmanagement-career-advertising-activity-7092840220949164032-8Kcy",
+            "activity_status": "Liked by Sara Saffari"
+        },
+        {
+            "title": "A short video of my #tedtalk in #tedxtehran   Be your necessary evil\u0634\u0631 \u0644\u0627\u0632\u0645 \u062e\u0648\u062f\u062a \u0628\u0627\u0634#\u062a\u062f\u0627\u06a9\u0633 #TEDtalk TED Conferences",
+            "link": "https://www.linkedin.com/posts/atahomayoun_tedtalk-tedxtehran-%D8%AA%D8%AF%D8%A7%DA%A9%D8%B3-activity-7093907005408468992-gRfB",
+            "activity_status": "Liked by Sara Saffari"
+        },
+        {
+            "title": "\u0632\u0628\u0627\u0646 \u0627\u0646\u06af\u0644\u06cc\u0633\u06cc \u0645\u0647\u0645\u0647\u060c \u062f\u0631\u0633\u062a\u062e\u0648\u0628\u0647 \u06a9\u0647 \u0628\u0647 \u0632\u0628\u0627\u0646 \u0627\u0646\u06af\u0644\u06cc\u0633\u06cc \u0645\u0633\u0644\u0637 \u0628\u0627\u0634\u06cc\u0645\u060c \u062f\u0631\u0633\u062a\u0648\u0644\u06cc \u0645\u0646 \u0646\u0645\u06cc\u0641\u0647\u0645\u0645 \u06a9\u062c\u0627 \u0686\u0647 \u0646\u06cc\u0627\u0632\u06cc \u0634\u06a9\u0644 \u06af\u0631\u0641\u062a \u06a9\u0647 \u062f\u0627\u0631\u06cc\u0645 \u0628\u0647 \u0639\u0646\u0648\u0627\u0646 \u062f\u0648\u062a\u0627 \u0627\u06cc\u0631\u0627\u0646\u06cc \u0628\u0627\u0647\u0645 \u0627\u0646\u06af\u0644\u06cc\u0633\u06cc\u2026",
+            "link": "https://www.linkedin.com/posts/hossein-haghshenas_%D8%B2%D8%A8%D8%A7%D9%86-%D8%A7%D9%86%DA%AF%D9%84%DB%8C%D8%B3%DB%8C-%D9%85%D9%87%D9%85%D9%87-%D8%AF%D8%B1%D8%B3%D8%AA-%D8%AE%D9%88%D8%A8%D9%87-%DA%A9%D9%87-%D8%A8%D9%87-%D8%B2%D8%A8%D8%A7%D9%86-%D8%A7%D9%86%DA%AF%D9%84%DB%8C%D8%B3%DB%8C-activity-7092767128595914753-7v3I",
+            "activity_status": "Liked by Sara Saffari"
+        },
+        {
+            "title": "\u0627\u0641\u0632\u0627\u06cc\u0634 \u0645\u0647\u0627\u0631\u062a \u0648 \u0628\u0647\u0628\u0648\u062f \u062f\u0631\u0622\u0645\u062f \u0628\u0627 \u06cc\u0627\u062f\u06af\u06cc\u0631\u06cc \u0627\u0632 \u06af\u0632\u0627\u0631\u0634\u200c\u0647\u0627\u06cc\u06cc \u0645\u062b\u0644  \u0645\u062a\u0631\u06cc\u06a9\u0633\u067e\u06cc\u0634\u0646\u0647\u0627\u062f \u0645\u06cc\u200c\u06a9\u0646\u0645 \u0648\u06cc\u062f\u06cc\u0648 \u0631\u0648 \u0628\u0628\u06cc\u0646\u06cc\u062f\ud83d\ude4c\u0647\u0645\u0648\u0646\u0637\u0648\u0631 \u06a9\u0647 \u062f\u0627\u0634\u062a\u0645 \u06af\u0632\u0627\u0631\u0634 \u0661\u06f4\u0660\u0661 \u067e\u0644\u062a\u0641\u0631\u0645\u2026",
+            "link": "https://www.linkedin.com/posts/alireza-ebrahimian_%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84%D9%85%D8%A7%D8%B1%DA%A9%D8%AA%DB%8C%D9%86%DA%AF-%D9%85%D8%AA%D8%B1%DB%8C%DA%A9%D8%B3-%D8%AA%D8%A8%D9%84%DB%8C%D8%BA%D8%A7%D8%AA-activity-7086995880636989440-740E",
+            "activity_status": "Liked by Sara Saffari"
+        },
+        {
+            "title": "Here are 4 reasons you should learn another language. Watch John McWhorter's full TED Talk here: http://t.ted.com/2JVsgaT",
+            "link": "https://www.linkedin.com/posts/ted-conferences_here-are-4-reasons-you-should-learn-another-activity-7086709101337948160-hubh",
+            "activity_status": "Liked by Sara Saffari"
+        },
+        {
+            "title": "\u0631\u0648\u0632\u0647\u0627 \u0648 \u0633\u0627\u0644\u200c\u0647\u0627 \u0645\u06cc\u200c\u06af\u0630\u0631\u0646\u062f \u0648 \u0647\u0646\u0648\u0632 \u06a9\u0633\u06cc \u0646\u062a\u0648\u0646\u0633\u062a\u0647 \u0645\u0641\u0647\u0648\u0645 variable \u0631\u0648 \u062f\u0631 \u06cc\u06a9 \u062c\u0645\u0644\u0647 \u0633\u0631\u0631\u0627\u0633\u062a \u062a\u0639\u0631\u06cc\u0641 \u06a9\u0646\u0647 :))\u200c#\u062a\u06af_\u0645\u0646\u06cc\u062c\u0631 #\u06af\u0648\u06af\u0644#TagManager #Google",
+            "link": "https://www.linkedin.com/posts/%D8%AA%DA%AF%D9%85%D9%86%DB%8C%D8%AC%D8%B1-%DA%AF%D9%88%DA%AF%D9%84-tagmanager-activity-7086983088953581568-X-6I",
+            "activity_status": "Liked by Sara Saffari"
+        },
+        {
+            "title": "Who\u2019s hiring product managers?(any level, any location) Reply here.",
+            "link": "https://www.linkedin.com/posts/shreyasdoshi_whos-hiring-product-managers-any-level-activity-7087135101800648704-Ol9W",
+            "activity_status": "Liked by Sara Saffari"
+        },
+        {
+            "title": "\u06af\u0632\u0627\u0631\u0634 \u0633\u0627\u0644 1401 \u0645\u062a\u0631\u06cc\u06a9\u0633 \u0645\u0646\u062a\u0634\u0631 \u0634\u062f! \u062f\u0631 \u0633\u0627\u0644 \u06af\u0630\u0634\u062a\u0647 \u0628\u06cc\u0634 \u0627\u0632 \u06f1\u06f0\u06f0\u06f0 \u0627\u067e\u0644\u06cc\u06a9\u06cc\u0634\u0646 \u0645\u0646\u062a\u0634\u0631 \u0634\u062f\u0647 \u062f\u0631 \u0627\u0633\u062a\u0648\u0631\u0647\u0627\u06cc \u0645\u0639\u062a\u0628\u0631\u060c \u0627\u0632 \u0645\u062a\u0631\u06cc\u06a9\u0633 \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u06a9\u0631\u062f\u0647\u200c\u0627\u0646\u062f \u06a9\u0647 \u06cc\u06a9 \u0633\u0648\u0645 \u0622\u0646\u200c\u0647\u0627 \u0631\u0627\u2026",
+            "link": "https://www.linkedin.com/posts/metrix-ir_%DA%AF%D8%B2%D8%A7%D8%B1%D8%B4-%D8%B3%D8%A7%D9%84-1401-%D9%85%D8%AA%D8%B1%DB%8C%DA%A9%D8%B3-activity-7085879208840675328-y6e0",
+            "activity_status": "Liked by Sara Saffari"
+        },
+        {
+            "title": "\u0633\u0644\u0627\u0645.\u0627\u06cc\u0646 \u06cc\u06a9 \u062f\u0631\u062e\u0648\u0627\u0633\u062a \u062f\u0648\u0633\u062a\u0627\u0646\u0647 \u0627\u0633\u062a. \u062e\u0648\u0627\u0647\u0634 \u0645\u06cc\u200c\u06a9\u0646\u0645 \u062a\u0627 \u067e\u0627\u06cc\u0627\u0646 \u0645\u0637\u0627\u0644\u0639\u0647\u200c\u0627\u0634 \u06a9\u0646\u06cc\u062f.\u0641\u06a9\u0631 \u06a9\u0646\u0645 \u0627\u0633\u0645 \u06a9\u0627\u0633\u0628\u06cc \u0645\u0627 \u06cc\u0639\u0646\u06cc \u00ab\u062f\u0633\u062a\u06cc\u0627\u0631\u00bb \u0631\u0648 \u0634\u0646\u06cc\u062f\u0647 \u06cc\u0627 \u062f\u06cc\u062f\u0647 \u0628\u0627\u0634\u06cc\u062f. \u0627\u0641\u0632\u0648\u0646\u0647\u200c\u0627\u06cc \u06a9\u0647 \u062f\u0631\u2026",
+            "link": "https://www.linkedin.com/posts/areeskandari_%D8%B3%D9%84%D8%A7%D9%85-%D8%A7%DB%8C%D9%86-%DB%8C%DA%A9-%D8%AF%D8%B1%D8%AE%D9%88%D8%A7%D8%B3%D8%AA-%D8%AF%D9%88%D8%B3%D8%AA%D8%A7%D9%86%D9%87-%D8%A7%D8%B3%D8%AA-%D8%AE%D9%88%D8%A7%D9%87%D8%B4-%D9%85%DB%8C%DA%A9%D9%86%D9%85-activity-7083169420482633728-nbJG",
+            "activity_status": "Liked by Sara Saffari"
+        }
+    ],
+    "similarly_named_profiles": [
+        {
+            "name": "Dr.Sara Saffari",
+            "link": "https://ir.linkedin.com/in/dr-sara-saffari-8ba2861aa",
+            "summary": null,
+            "location": "Tehran"
+        },
+        {
+            "name": "sara saffari",
+            "link": "https://ir.linkedin.com/in/sara-saffari-88277354",
+            "summary": null,
+            "location": "Bojnurd County"
+        },
+        {
+            "name": "Sara saffari",
+            "link": "https://ir.linkedin.com/in/sara-saffari-a7b55718a",
+            "summary": null,
+            "location": "Iran"
+        },
+        {
+            "name": "sara saffari",
+            "link": "https://ir.linkedin.com/in/sara-saffari-9bb599b1",
+            "summary": "sport",
+            "location": "Iran"
+        }
+    ],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

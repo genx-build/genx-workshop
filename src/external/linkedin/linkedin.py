@@ -38,6 +38,9 @@ def _save_in_local_storage(name: str, profile: dict) -> bool:
 
 def fetch_linkedin_profile(linkedin_url):
     name = _extract_profile_name(linkedin_url)
+    print("name", name)
+    if name is None:
+        return {}
     raw_profile = _get_from_local_storage(name)
     if raw_profile is not None:
         return raw_profile
