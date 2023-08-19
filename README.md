@@ -20,6 +20,13 @@ and uncover how computers can autonomously create diverse content.
 
 All codes that exist within branches starting with 'ws2/' are located. To watch the video, please visit the following [link](wwww.sth.com)
 
+Branches:
+
+1. ws2/start1
+2. ws2/start2
+3. ws2/agent
+4. ws2/api-server
+
 ## Contact Us
 
 If you have any questions  after the workshop, feel free to reach out to us at [your email address].
