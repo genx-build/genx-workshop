@@ -11,6 +11,17 @@ Welcome to the GenX Workshop: Introduction to Generative AI for Beginners! In th
 
 ## Morning workshop
 
+This section contains information about a workshop that consisted of two parts:
+
+### Part 1: Generative AI and Language Models
+
+In the first part of the workshop, Dr. Seyed Abbas Hosseini delved into the realm of generative AI, providing insights into the workings of large language models. He discussed the methodology for developing machine learning projects both before and after the emergence of ChatGPT, highlighting the revolutionary impact it has had on the field.
+
+### Part 2: Effective Prompts and Open Source Models
+
+The second part of the workshop featured S. Muhammad Javad Feyzabadi Sani, who explored the concept of prompts and how to craft effective prompts using ChatGPT and MidJourney. Additionally, he covered the significance of open source models, explaining when and how they can be beneficial for various applications.
+
+For more details and resources related to the workshop, feel free to explore the contents of this repository.
 To watch the video morning workshop, please visit the following [link](https://www.aparat.com/v/4L5sY)
 
 ## Afternoon workshop(14-17)
