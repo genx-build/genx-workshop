@@ -9,14 +9,14 @@ Welcome to the GenX Workshop: Introduction to Generative AI for Beginners! In th
 
 ![main poster](./images/main.jpg)
 
-## morning workshop
+## Morning workshop
 
 [content]
 
-## afternoon workshop(14-17)
+## Afternoon workshop(14-17)
 
- In this engaging afternoon session (14:00 - 17:00), we will delve into the captivating realm of generative artificial intelligence (AI)
-and uncover how computers can autonomously create diverse content.
+In this engaging afternoon session (14:00 - 17:00), we will delve into the captivating realm of generative artificial
+intelligence (AI) and uncover how computers can autonomously create diverse content.
 
 All codes that exist within branches starting with 'ws2/' are located. To watch the video, please visit the following [link](wwww.sth.com)
 
