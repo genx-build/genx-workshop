@@ -1,13 +1,10 @@
 from dotenv import find_dotenv, load_dotenv
-
 from src.engine import llm_engine
-
-load_dotenv(find_dotenv())
-
-
 from fastapi import FastAPI
 from fastapi.exceptions import HTTPException
 from pydantic import BaseModel, StrictStr
+
+load_dotenv(find_dotenv())
 
 app = FastAPI()
 
