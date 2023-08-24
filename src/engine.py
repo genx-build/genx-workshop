@@ -1,14 +1,13 @@
-# wrapper class on prompt to reduce duplication
-from pprint import pprint
-
 from langchain.chains import LLMChain
-# wrapper on LLM for Instructions
 from langchain.chat_models import ChatOpenAI
 from langchain.prompts import PromptTemplate
 
 from src.agents.linkedin_lookup_agent import lookup as lookup_agent
 from src.external.linkedin import scrape_linkedin_profile
 from src.output_parser import UserInfo, user_info_parser
+from src.logger_handler import LoggerHandler
+
+handler = LoggerHandler()
 
 
 def llm_engine(user_profile_name: str) -> UserInfo | None:
@@ -36,5 +35,5 @@ def llm_engine(user_profile_name: str) -> UserInfo | None:
         print("can not find proper profile")
         return None
 
-    output = chain.run(information=profile)
+    output = chain.run(information=profile, callbacks=[handler])
     return user_info_parser.parse(output)
